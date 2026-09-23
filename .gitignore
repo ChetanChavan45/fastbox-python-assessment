@@ -4,7 +4,6 @@ __pycache__/
 *.pyo
 
 # Generated outputs (recreated on each run)
-report.json
 top_performer.csv
 
 # Test / coverage cache
